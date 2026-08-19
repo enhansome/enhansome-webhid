@@ -1,16 +1,6 @@
 {
   "items": [
     {
-      "description": "Enabled by default since Chrome 89 (March 2021).",
-      "items": [],
-      "title": "Status"
-    },
-    {
-      "description": "None yet.",
-      "items": [],
-      "title": "Talks & videos"
-    },
-    {
       "description": "Devices that work well with WebHID, and device-specific abstraction libraries. Do also file an issue to inform others of devices that don't. Not all devices in the USB HID device class will communicate using the high-level abstractions.",
       "items": [
         {
@@ -20,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7104273,
             "language": "JavaScript",
             "last_commit": "2026-06-07T19:18:06Z",
             "owner": "sandeepmistry",
@@ -34,52 +25,56 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9391152,
             "language": "JavaScript",
             "last_commit": "2023-08-17T21:56:35Z",
             "owner": "arvydas",
             "repo": "blinkstick-node",
             "stars": 48
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "X-keys",
+              "description": "keyboards, switches, analog controls, and pedals (see HID Data Reports, Integration, xkeys, node-xkeys)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93313352,
+                "language": "TypeScript",
+                "last_commit": "2026-08-05T16:52:17Z",
+                "owner": "SuperFlyTV",
+                "repo": "xkeys",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cleware",
+              "description": "sensors, switches, and lights (see clewarecontrol, sniner/cleware)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 41299857,
+                "language": "Ruby",
+                "last_commit": "2015-10-27T18:32:28Z",
+                "owner": "sniner",
+                "repo": "cleware",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Candidates"
         }
       ],
       "title": "Devices"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "X-keys",
-          "description": "keyboards, switches, analog controls, and pedals (see HID Data Reports, Integration, xkeys, node-xkeys)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-05T16:52:17Z",
-            "owner": "SuperFlyTV",
-            "repo": "xkeys",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cleware",
-          "description": "sensors, switches, and lights (see clewarecontrol, sniner/cleware)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Ruby",
-            "last_commit": "2015-10-27T18:32:28Z",
-            "owner": "sniner",
-            "repo": "cleware",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Candidates"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -88,6 +83,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 189080231,
             "language": "TypeScript",
             "last_commit": "2026-08-11T10:09:09Z",
             "owner": "Julusian",
@@ -102,6 +98,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 310552317,
             "language": "TypeScript",
             "last_commit": "2025-07-17T13:49:34Z",
             "owner": "tomayac",
@@ -113,7 +110,7 @@
       "title": "Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -122,6 +119,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 189080231,
             "language": "TypeScript",
             "last_commit": "2026-08-11T10:09:09Z",
             "owner": "Julusian",
@@ -136,6 +134,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 313639551,
             "language": "JavaScript",
             "last_commit": "2021-02-27T13:32:09Z",
             "owner": "tomayac",
@@ -150,6 +149,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 210905957,
             "language": "JavaScript",
             "last_commit": "2019-10-11T22:31:10Z",
             "owner": "robatwilliams",
@@ -170,11 +170,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4644745,
             "language": "JavaScript",
             "last_commit": "2026-08-18T13:30:12Z",
             "owner": "GoogleChrome",
             "repo": "chrome-extensions-samples",
-            "stars": 17717
+            "stars": 17718
           }
         },
         {
@@ -184,11 +185,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4644745,
             "language": "JavaScript",
             "last_commit": "2026-08-18T13:30:12Z",
             "owner": "GoogleChrome",
             "repo": "chrome-extensions-samples",
-            "stars": 17717
+            "stars": 17718
           }
         },
         {
@@ -198,6 +200,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1817376,
             "language": "C++",
             "last_commit": "2026-07-20T09:31:33Z",
             "owner": "node-hid",
@@ -212,11 +215,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41744626,
             "language": "HTML",
             "last_commit": "2024-04-19T08:20:23Z",
             "owner": "WebBluetoothCG",
             "repo": "demos",
-            "stars": 676
+            "stars": 677
           }
         },
         {
@@ -226,6 +230,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41030070,
             "language": "HTML",
             "last_commit": "2026-08-07T10:30:09Z",
             "owner": "beaufortfrancois",
@@ -235,21 +240,12 @@
         }
       ],
       "title": "Inspiration from elsewhere"
-    },
-    {
-      "description": "None yet.",
-      "items": [],
-      "title": "Miscellaneous"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:18:30.193Z",
+    "last_updated": "2026-08-19T12:58:11.205Z",
     "original_repository": "robatwilliams/awesome-webhid",
+    "original_repository_id": 178205468,
     "original_repository_sha": "4a81dc75de563c7c4d5e3ee4d794a3f6ab6a2c71",
     "enhanced_repository": "enhansome/enhansome-webhid",
     "enhanced_repository_description": null,

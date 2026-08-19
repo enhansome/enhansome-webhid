@@ -113,10 +113,10 @@ None yet.
 
 *Transferrable inspiration from related areas such as general Bluetooth/USB HID, Web Bluetooth, and WebUSB.*
 
-* [chrome.hid API sample](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/hid) ⭐ 17,717 | 🐛 62 | 🌐 JavaScript | 📅 2026-08-18 - Generic input/output Chrome App sample.
-* [blink(1) using the chrome.hid API](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/blink1) ⭐ 17,717 | 🐛 62 | 🌐 JavaScript | 📅 2026-08-18 - Chrome App sample that controls a [Blink(1)](https://blink1.thingm.com) notification LED.
+* [chrome.hid API sample](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/hid) ⭐ 17,718 | 🐛 62 | 🌐 JavaScript | 📅 2026-08-18 - Generic input/output Chrome App sample.
+* [blink(1) using the chrome.hid API](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/blink1) ⭐ 17,718 | 🐛 62 | 🌐 JavaScript | 📅 2026-08-18 - Chrome App sample that controls a [Blink(1)](https://blink1.thingm.com) notification LED.
 * [node-hid examples](https://github.com/node-hid/node-hid#examples) ⭐ 1,583 | 🐛 46 | 🌐 C++ | 📅 2026-07-20 - Despite the name, most directly use low-level read/write operations rather than HID abstractions.
-* [Web Bluetooth Demos](https://github.com/WebBluetoothCG/demos) ⭐ 676 | 🐛 7 | 🌐 HTML | 📅 2024-04-19 (Web Bluetooth Community Group) - Various, plus links to others.
+* [Web Bluetooth Demos](https://github.com/WebBluetoothCG/demos) ⭐ 677 | 🐛 7 | 🌐 HTML | 📅 2024-04-19 (Web Bluetooth Community Group) - Various, plus links to others.
 * [Griffin Powermate Playground](https://github.com/beaufortfrancois/sandbox/blob/gh-pages/webusb/griffin-powermate.html) ⭐ 81 | 🐛 10 | 🌐 HTML | 📅 2026-08-07 - Using WebUSB.
 * [Interacting with USB HID devices from web apps](https://keetrax.com/blog/2015/01/interacting-usb-hid-devices-web-apps/) - Using a Chrome App as a go-between between a dictation foot pedal and a web application (2015).
 
