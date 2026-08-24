@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Neither the WebUSB(ref)",
+          "description": "or Web Bluetooth(ref) APIs allow access to HID-class devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 35305773,
+            "language": "Bikeshed",
+            "last_commit": "2026-06-05T19:45:25Z",
+            "owner": "WICG",
+            "repo": "webusb",
+            "stars": 1407
+          }
+        }
+      ],
+      "title": "Good to know"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WebHID Explainer",
+          "description": "The what & why in a nutshell, including basic terminology and an example. Some API details outdated.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 150184680,
+            "language": "HTML",
+            "last_commit": "2024-09-13T20:42:08Z",
+            "owner": "WICG",
+            "repo": "webhid",
+            "stars": 167
+          }
+        }
+      ],
+      "title": "Specification & documentation"
+    },
+    {
       "description": "Devices that work well with WebHID, and device-specific abstraction libraries. Do also file an issue to inform others of devices that don't. Not all devices in the USB HID device class will communicate using the high-level abstractions.",
       "items": [
         {
@@ -175,7 +217,7 @@
             "last_commit": "2026-08-21T16:54:31Z",
             "owner": "GoogleChrome",
             "repo": "chrome-extensions-samples",
-            "stars": 17734
+            "stars": 17732
           }
         },
         {
@@ -190,7 +232,7 @@
             "last_commit": "2026-08-21T16:54:31Z",
             "owner": "GoogleChrome",
             "repo": "chrome-extensions-samples",
-            "stars": 17734
+            "stars": 17732
           }
         },
         {
@@ -243,7 +285,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:24:32.726Z",
+    "last_updated": "2026-08-24T14:31:57.983Z",
     "original_repository": "robatwilliams/awesome-webhid",
     "original_repository_id": 178205468,
     "original_repository_sha": "4a81dc75de563c7c4d5e3ee4d794a3f6ab6a2c71",

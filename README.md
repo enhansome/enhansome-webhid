@@ -31,15 +31,15 @@ Enabled by default since Chrome 89 (March 2021).
 
 ## Good to know
 
+* Neither the WebUSB<sup>[(ref)](https://github.com/WICG/webusb/issues/29) ⭐ 1,407 | 🐛 44 | 🌐 Bikeshed | 📅 2026-06-05</sup> or Web Bluetooth<sup>[(ref)](https://github.com/WebBluetoothCG/web-bluetooth/issues/393) ⭐ 1,446 | 🐛 102 | 🌐 Bikeshed | 📅 2026-06-03</sup> APIs allow access to HID-class devices.
 * WebHID is not a W3C Standard nor is it on the W3C Standards Track<sup>[(ref)](https://wicg.github.io/webhid)</sup>.
 * Devices that generate trusted input (e.g. keyboards, mice, security keys) will not be accessible. Such devices define their reports in [top-level HID collections](https://docs.microsoft.com/en-us/windows-hardware/drivers/hid/top-level-collections) that will be considered protected usages<sup>[(ref1)](https://groups.google.com/a/chromium.org/d/msg/blink-dev/OaDCpCaEe_4/uZ0z7frlAAAJ]), [(ref2)](https://discourse.wicg.io/t/human-interface-device-hid-api/3070/6])</sup>.
 * Access to a device must be granted by the user via a chooser dialog provided by the browser, similarly to WebUSB and Web Bluetooth. Launching the chooser must be done from the context of a user gesture (e.g. a mouse click).
-* Neither the WebUSB<sup>[(ref)](https://github.com/WICG/webusb/issues/29) ⭐ 1,407 | 🐛 44 | 🌐 Bikeshed | 📅 2026-06-05</sup> or Web Bluetooth<sup>[(ref)](https://github.com/WebBluetoothCG/web-bluetooth/issues/393) ⭐ 1,446 | 🐛 102 | 🌐 Bikeshed | 📅 2026-06-03</sup> APIs allow access to HID-class devices.
 
 ## Specification & documentation
 
-* [WebHID API Specification](https://wicg.github.io/webhid) (Web Platform Incubator Community Group (WICG)) - Including introduction, motivating applications, and security/privacy.
 * [WebHID Explainer](https://github.com/WICG/webhid/blob/master/EXPLAINER.md) ⭐ 167 | 🐛 47 | 🌐 HTML | 📅 2024-09-13 - The what & why in a nutshell, including basic terminology and an example. Some API details outdated.
+* [WebHID API Specification](https://wicg.github.io/webhid) (Web Platform Incubator Community Group (WICG)) - Including introduction, motivating applications, and security/privacy.
 * [WebHID (Human Interface Device) - Chrome Platform Status](https://www.chromestatus.com/feature/5172464636133376)
 * [Chromium implementation tracking bug: WebHID API](https://bugs.chromium.org/p/chromium/issues/detail?id=890096) - Labelled with targeted & stable release versions; see the [development/release calendar](https://www.chromium.org/developers/calendar).
 
@@ -113,8 +113,8 @@ None yet.
 
 *Transferrable inspiration from related areas such as general Bluetooth/USB HID, Web Bluetooth, and WebUSB.*
 
-* [chrome.hid API sample](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/hid) ⭐ 17,734 | 🐛 57 | 🌐 JavaScript | 📅 2026-08-21 - Generic input/output Chrome App sample.
-* [blink(1) using the chrome.hid API](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/blink1) ⭐ 17,734 | 🐛 57 | 🌐 JavaScript | 📅 2026-08-21 - Chrome App sample that controls a [Blink(1)](https://blink1.thingm.com) notification LED.
+* [chrome.hid API sample](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/hid) ⭐ 17,732 | 🐛 57 | 🌐 JavaScript | 📅 2026-08-21 - Generic input/output Chrome App sample.
+* [blink(1) using the chrome.hid API](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/blink1) ⭐ 17,732 | 🐛 57 | 🌐 JavaScript | 📅 2026-08-21 - Chrome App sample that controls a [Blink(1)](https://blink1.thingm.com) notification LED.
 * [node-hid examples](https://github.com/node-hid/node-hid#examples) ⭐ 1,583 | 🐛 46 | 🌐 C++ | 📅 2026-07-20 - Despite the name, most directly use low-level read/write operations rather than HID abstractions.
 * [Web Bluetooth Demos](https://github.com/WebBluetoothCG/demos) ⭐ 677 | 🐛 7 | 🌐 HTML | 📅 2024-04-19 (Web Bluetooth Community Group) - Various, plus links to others.
 * [Griffin Powermate Playground](https://github.com/beaufortfrancois/sandbox/blob/gh-pages/webusb/griffin-powermate.html) ⭐ 81 | 🐛 10 | 🌐 HTML | 📅 2026-08-07 - Using WebUSB.
