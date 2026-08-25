@@ -217,7 +217,7 @@
             "last_commit": "2026-08-21T16:54:31Z",
             "owner": "GoogleChrome",
             "repo": "chrome-extensions-samples",
-            "stars": 17732
+            "stars": 17734
           }
         },
         {
@@ -232,7 +232,7 @@
             "last_commit": "2026-08-21T16:54:31Z",
             "owner": "GoogleChrome",
             "repo": "chrome-extensions-samples",
-            "stars": 17732
+            "stars": 17734
           }
         },
         {
@@ -285,7 +285,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:31:57.983Z",
+    "last_updated": "2026-08-25T04:19:40.340Z",
     "original_repository": "robatwilliams/awesome-webhid",
     "original_repository_id": 178205468,
     "original_repository_sha": "4a81dc75de563c7c4d5e3ee4d794a3f6ab6a2c71",
