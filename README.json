@@ -214,10 +214,10 @@
             "archived": false,
             "id": 4644745,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T16:54:31Z",
+            "last_commit": "2026-08-25T16:43:22Z",
             "owner": "GoogleChrome",
             "repo": "chrome-extensions-samples",
-            "stars": 17735
+            "stars": 17736
           }
         },
         {
@@ -229,10 +229,10 @@
             "archived": false,
             "id": 4644745,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T16:54:31Z",
+            "last_commit": "2026-08-25T16:43:22Z",
             "owner": "GoogleChrome",
             "repo": "chrome-extensions-samples",
-            "stars": 17735
+            "stars": 17736
           }
         },
         {
@@ -285,7 +285,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:23:44.793Z",
+    "last_updated": "2026-08-26T04:19:54.526Z",
     "original_repository": "robatwilliams/awesome-webhid",
     "original_repository_id": 178205468,
     "original_repository_sha": "4a81dc75de563c7c4d5e3ee4d794a3f6ab6a2c71",
