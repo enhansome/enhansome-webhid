@@ -16,7 +16,8 @@
             "owner": "WICG",
             "repo": "webusb",
             "stars": 1407
-          }
+          },
+          "first_seen": "2026-08-28T15:37:56.988Z"
         }
       ],
       "title": "Good to know"
@@ -37,7 +38,8 @@
             "owner": "WICG",
             "repo": "webhid",
             "stars": 167
-          }
+          },
+          "first_seen": "2026-08-28T15:37:56.988Z"
         }
       ],
       "title": "Specification & documentation"
@@ -58,7 +60,8 @@
             "owner": "sandeepmistry",
             "repo": "node-blink1",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T15:37:56.988Z"
         },
         {
           "node_type": "item",
@@ -73,7 +76,8 @@
             "owner": "arvydas",
             "repo": "blinkstick-node",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T15:37:56.988Z"
         },
         {
           "children": [
@@ -90,7 +94,8 @@
                 "owner": "SuperFlyTV",
                 "repo": "xkeys",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T15:37:56.988Z"
             },
             {
               "node_type": "item",
@@ -105,7 +110,8 @@
                 "owner": "sniner",
                 "repo": "cleware",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T15:37:56.988Z"
             }
           ],
           "description": null,
@@ -131,7 +137,8 @@
             "owner": "Julusian",
             "repo": "node-elgato-stream-deck",
             "stars": 202
-          }
+          },
+          "first_seen": "2026-08-28T15:37:56.988Z"
         },
         {
           "node_type": "item",
@@ -146,7 +153,8 @@
             "owner": "tomayac",
             "repo": "joy-con-webhid",
             "stars": 187
-          }
+          },
+          "first_seen": "2026-08-28T15:37:56.988Z"
         }
       ],
       "title": "Libraries"
@@ -167,7 +175,8 @@
             "owner": "Julusian",
             "repo": "node-elgato-stream-deck",
             "stars": 202
-          }
+          },
+          "first_seen": "2026-08-28T15:37:56.988Z"
         },
         {
           "node_type": "item",
@@ -182,7 +191,8 @@
             "owner": "tomayac",
             "repo": "chrome-dino-webhid",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T15:37:56.988Z"
         },
         {
           "node_type": "item",
@@ -197,7 +207,8 @@
             "owner": "robatwilliams",
             "repo": "webhid-demos",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T15:37:56.988Z"
         }
       ],
       "title": "Demos, experiments & hacks"
@@ -214,11 +225,12 @@
             "archived": false,
             "id": 4644745,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T12:58:47Z",
+            "last_commit": "2026-08-28T02:31:07Z",
             "owner": "GoogleChrome",
             "repo": "chrome-extensions-samples",
             "stars": 17737
-          }
+          },
+          "first_seen": "2026-08-28T15:37:56.988Z"
         },
         {
           "node_type": "item",
@@ -229,11 +241,12 @@
             "archived": false,
             "id": 4644745,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T12:58:47Z",
+            "last_commit": "2026-08-28T02:31:07Z",
             "owner": "GoogleChrome",
             "repo": "chrome-extensions-samples",
             "stars": 17737
-          }
+          },
+          "first_seen": "2026-08-28T15:37:56.988Z"
         },
         {
           "node_type": "item",
@@ -248,7 +261,8 @@
             "owner": "node-hid",
             "repo": "node-hid",
             "stars": 1583
-          }
+          },
+          "first_seen": "2026-08-28T15:37:56.988Z"
         },
         {
           "node_type": "item",
@@ -263,7 +277,8 @@
             "owner": "WebBluetoothCG",
             "repo": "demos",
             "stars": 677
-          }
+          },
+          "first_seen": "2026-08-28T15:37:56.988Z"
         },
         {
           "node_type": "item",
@@ -278,14 +293,15 @@
             "owner": "beaufortfrancois",
             "repo": "sandbox",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T15:37:56.988Z"
         }
       ],
       "title": "Inspiration from elsewhere"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:34:45.724Z",
+    "last_updated": "2026-08-28T15:37:56.988Z",
     "original_repository_info": {
       "archived": false,
       "id": 178205468,
@@ -293,7 +309,7 @@
       "last_commit": "2022-12-20T21:05:24Z",
       "owner": "robatwilliams",
       "repo": "awesome-webhid",
-      "stars": 204
+      "stars": 205
     },
     "original_repository_sha": "4a81dc75de563c7c4d5e3ee4d794a3f6ab6a2c71",
     "enhanced_repository": "enhansome/enhansome-webhid",
