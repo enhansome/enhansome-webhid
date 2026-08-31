@@ -31,7 +31,7 @@ Enabled by default since Chrome 89 (March 2021).
 
 ## Good to know
 
-* Neither the WebUSB<sup>[(ref)](https://github.com/WICG/webusb/issues/29) ⭐ 1,407 | 🐛 44 | 🌐 Bikeshed | 📅 2026-06-05</sup> or Web Bluetooth<sup>[(ref)](https://github.com/WebBluetoothCG/web-bluetooth/issues/393) ⭐ 1,446 | 🐛 102 | 🌐 Bikeshed | 📅 2026-06-03</sup> APIs allow access to HID-class devices.
+* Neither the WebUSB<sup>[(ref)](https://github.com/WICG/webusb/issues/29) ⭐ 1,407 | 🐛 44 | 🌐 Bikeshed | 📅 2026-06-05</sup> or Web Bluetooth<sup>[(ref)](https://github.com/WebBluetoothCG/web-bluetooth/issues/393) ⭐ 1,447 | 🐛 103 | 🌐 Bikeshed | 📅 2026-06-03</sup> APIs allow access to HID-class devices.
 * WebHID is not a W3C Standard nor is it on the W3C Standards Track<sup>[(ref)](https://wicg.github.io/webhid)</sup>.
 * Devices that generate trusted input (e.g. keyboards, mice, security keys) will not be accessible. Such devices define their reports in [top-level HID collections](https://docs.microsoft.com/en-us/windows-hardware/drivers/hid/top-level-collections) that will be considered protected usages<sup>[(ref1)](https://groups.google.com/a/chromium.org/d/msg/blink-dev/OaDCpCaEe_4/uZ0z7frlAAAJ]), [(ref2)](https://discourse.wicg.io/t/human-interface-device-hid-api/3070/6])</sup>.
 * Access to a device must be granted by the user via a chooser dialog provided by the browser, similarly to WebUSB and Web Bluetooth. Launching the chooser must be done from the context of a user gesture (e.g. a mouse click).
@@ -113,8 +113,8 @@ None yet.
 
 *Transferrable inspiration from related areas such as general Bluetooth/USB HID, Web Bluetooth, and WebUSB.*
 
-* [chrome.hid API sample](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/hid) ⭐ 17,740 | 🐛 56 | 🌐 JavaScript | 📅 2026-08-28 - Generic input/output Chrome App sample.
-* [blink(1) using the chrome.hid API](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/blink1) ⭐ 17,740 | 🐛 56 | 🌐 JavaScript | 📅 2026-08-28 - Chrome App sample that controls a [Blink(1)](https://blink1.thingm.com) notification LED.
+* [chrome.hid API sample](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/hid) ⭐ 17,741 | 🐛 56 | 🌐 JavaScript | 📅 2026-08-28 - Generic input/output Chrome App sample.
+* [blink(1) using the chrome.hid API](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/blink1) ⭐ 17,741 | 🐛 56 | 🌐 JavaScript | 📅 2026-08-28 - Chrome App sample that controls a [Blink(1)](https://blink1.thingm.com) notification LED.
 * [node-hid examples](https://github.com/node-hid/node-hid#examples) ⭐ 1,583 | 🐛 46 | 🌐 C++ | 📅 2026-07-20 - Despite the name, most directly use low-level read/write operations rather than HID abstractions.
 * [Web Bluetooth Demos](https://github.com/WebBluetoothCG/demos) ⭐ 677 | 🐛 7 | 🌐 HTML | 📅 2024-04-19 (Web Bluetooth Community Group) - Various, plus links to others.
 * [Griffin Powermate Playground](https://github.com/beaufortfrancois/sandbox/blob/gh-pages/webusb/griffin-powermate.html) ⭐ 81 | 🐛 10 | 🌐 HTML | 📅 2026-08-07 - Using WebUSB.
@@ -151,4 +151,4 @@ None yet.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
