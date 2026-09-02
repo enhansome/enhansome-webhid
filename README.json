@@ -313,11 +313,11 @@
             "id": 4644745,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T02:31:07Z",
-            "open_issues": 56,
+            "last_commit": "2026-09-01T13:54:38Z",
+            "open_issues": 57,
             "owner": "GoogleChrome",
             "repo": "chrome-extensions-samples",
-            "stars": 17740,
+            "stars": 17741,
             "topics": [
               "chrome"
             ]
@@ -336,11 +336,11 @@
             "id": 4644745,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T02:31:07Z",
-            "open_issues": 56,
+            "last_commit": "2026-09-01T13:54:38Z",
+            "open_issues": 57,
             "owner": "GoogleChrome",
             "repo": "chrome-extensions-samples",
-            "stars": 17740,
+            "stars": 17741,
             "topics": [
               "chrome"
             ]
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T08:53:07.257Z",
+    "last_updated": "2026-09-02T08:06:38.443Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources relating to the WebHID (Human Interface Device) API",
