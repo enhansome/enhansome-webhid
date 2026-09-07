@@ -174,8 +174,8 @@
             "id": 189080231,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T12:34:57Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-07T00:30:58Z",
+            "open_issues": 25,
             "owner": "Julusian",
             "repo": "node-elgato-stream-deck",
             "stars": 203,
@@ -233,8 +233,8 @@
             "id": 189080231,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T12:34:57Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-07T00:30:58Z",
+            "open_issues": 25,
             "owner": "Julusian",
             "repo": "node-elgato-stream-deck",
             "stars": 203,
@@ -317,7 +317,7 @@
             "open_issues": 55,
             "owner": "GoogleChrome",
             "repo": "chrome-extensions-samples",
-            "stars": 17749,
+            "stars": 17752,
             "topics": [
               "chrome"
             ]
@@ -340,7 +340,7 @@
             "open_issues": 55,
             "owner": "GoogleChrome",
             "repo": "chrome-extensions-samples",
-            "stars": 17749,
+            "stars": 17752,
             "topics": [
               "chrome"
             ]
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T08:05:37.300Z",
+    "last_updated": "2026-09-07T08:36:15.112Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources relating to the WebHID (Human Interface Device) API",
