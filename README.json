@@ -178,7 +178,7 @@
             "open_issues": 25,
             "owner": "Julusian",
             "repo": "node-elgato-stream-deck",
-            "stars": 203,
+            "stars": 204,
             "topics": [
               "elgato",
               "stream-deck",
@@ -237,7 +237,7 @@
             "open_issues": 25,
             "owner": "Julusian",
             "repo": "node-elgato-stream-deck",
-            "stars": 203,
+            "stars": 204,
             "topics": [
               "elgato",
               "stream-deck",
@@ -363,7 +363,7 @@
             "open_issues": 46,
             "owner": "node-hid",
             "repo": "node-hid",
-            "stars": 1582,
+            "stars": 1583,
             "topics": [
               "electron",
               "hid",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T08:36:15.112Z",
+    "last_updated": "2026-09-08T08:18:49.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources relating to the WebHID (Human Interface Device) API",
