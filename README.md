@@ -78,7 +78,7 @@ None yet.
 
 * [USBDeview](https://www.nirsoft.net/utils/usb_devices_view.html) - View device information.
 * [USB Device Tree Viewer](https://www.uwe-sieber.de/usbtreeview_e.html) - View device information including interface and HID descriptors.
-* [node-hid](https://github.com/node-hid/node-hid) ⭐ 1,582 | 🐛 46 | 🌐 C++ | 📅 2026-07-20 - Cross-platform library for accessing USB HID devices from Node.js or Electron.
+* [node-hid](https://github.com/node-hid/node-hid) ⭐ 1,581 | 🐛 46 | 🌐 C++ | 📅 2026-07-20 - Cross-platform library for accessing USB HID devices from Node.js or Electron.
 
 ## Bluetooth, USB, & HID reference
 
@@ -91,13 +91,13 @@ None yet.
 
 ## Libraries
 
-* [@elgato-stream-deck/webhid](https://github.com/julusian/node-elgato-stream-deck) ⭐ 204 | 🐛 25 | 🌐 TypeScript | 📅 2026-09-07 - using the Elgato Stream Deck (see demos).
+* [@elgato-stream-deck/webhid](https://github.com/julusian/node-elgato-stream-deck) ⭐ 203 | 🐛 26 | 🌐 TypeScript | 📅 2026-09-10 - using the Elgato Stream Deck (see demos).
 * [tomayac/joy-con-webhid](https://github.com/tomayac/joy-con-webhid) ⭐ 187 | 🐛 6 | 🌐 TypeScript | 📅 2025-07-17 - using Nintendo Joy-Cons.
 * [TheBITLINK/WebHID-DS4](https://thebitlink.github.io/WebHID-DS4/) - using a DualShock 4 controller.
 
 ## Demos, experiments & hacks
 
-* [Elgato StreamDeck](https://julusian.github.io/node-elgato-stream-deck/) - using the Elgato Stream Deck (via [@elgato-stream-deck/webhid](https://github.com/julusian/node-elgato-stream-deck) ⭐ 204 | 🐛 25 | 🌐 TypeScript | 📅 2026-09-07).
+* [Elgato StreamDeck](https://julusian.github.io/node-elgato-stream-deck/) - using the Elgato Stream Deck (via [@elgato-stream-deck/webhid](https://github.com/julusian/node-elgato-stream-deck) ⭐ 203 | 🐛 26 | 🌐 TypeScript | 📅 2026-09-10).
 * [tomayac/chrome-dino-webhid](https://github.com/tomayac/chrome-dino-webhid) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2021-02-27 - using Nintendo Joy-Cons.
 * [robatwilliams/webhid-demos](https://github.com/robatwilliams/webhid-demos) ⚠️ Archived - using the BlinkStick Strip.
 * [todbot/blink1-webhid](https://todbot.github.io/blink1-webhid/) - using the blink(1).
@@ -113,9 +113,9 @@ None yet.
 
 *Transferrable inspiration from related areas such as general Bluetooth/USB HID, Web Bluetooth, and WebUSB.*
 
-* [chrome.hid API sample](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/hid) ⭐ 17,753 | 🐛 54 | 🌐 JavaScript | 📅 2026-09-08 - Generic input/output Chrome App sample.
-* [blink(1) using the chrome.hid API](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/blink1) ⭐ 17,753 | 🐛 54 | 🌐 JavaScript | 📅 2026-09-08 - Chrome App sample that controls a [Blink(1)](https://blink1.thingm.com) notification LED.
-* [node-hid examples](https://github.com/node-hid/node-hid#examples) ⭐ 1,582 | 🐛 46 | 🌐 C++ | 📅 2026-07-20 - Despite the name, most directly use low-level read/write operations rather than HID abstractions.
+* [chrome.hid API sample](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/hid) ⭐ 17,754 | 🐛 54 | 🌐 JavaScript | 📅 2026-09-08 - Generic input/output Chrome App sample.
+* [blink(1) using the chrome.hid API](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/blink1) ⭐ 17,754 | 🐛 54 | 🌐 JavaScript | 📅 2026-09-08 - Chrome App sample that controls a [Blink(1)](https://blink1.thingm.com) notification LED.
+* [node-hid examples](https://github.com/node-hid/node-hid#examples) ⭐ 1,581 | 🐛 46 | 🌐 C++ | 📅 2026-07-20 - Despite the name, most directly use low-level read/write operations rather than HID abstractions.
 * [Web Bluetooth Demos](https://github.com/WebBluetoothCG/demos) ⭐ 677 | 🐛 7 | 🌐 HTML | 📅 2024-04-19 (Web Bluetooth Community Group) - Various, plus links to others.
 * [Griffin Powermate Playground](https://github.com/beaufortfrancois/sandbox/blob/gh-pages/webusb/griffin-powermate.html) ⭐ 81 | 🐛 10 | 🌐 HTML | 📅 2026-08-07 - Using WebUSB.
 * [Interacting with USB HID devices from web apps](https://keetrax.com/blog/2015/01/interacting-usb-hid-devices-web-apps/) - Using a Chrome App as a go-between between a dictation foot pedal and a web application (2015).
@@ -151,4 +151,4 @@ None yet.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._

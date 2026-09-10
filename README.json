@@ -174,11 +174,11 @@
             "id": 189080231,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-07T00:30:58Z",
-            "open_issues": 25,
+            "last_commit": "2026-09-10T07:53:42Z",
+            "open_issues": 26,
             "owner": "Julusian",
             "repo": "node-elgato-stream-deck",
-            "stars": 204,
+            "stars": 203,
             "topics": [
               "elgato",
               "stream-deck",
@@ -233,11 +233,11 @@
             "id": 189080231,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-07T00:30:58Z",
-            "open_issues": 25,
+            "last_commit": "2026-09-10T07:53:42Z",
+            "open_issues": 26,
             "owner": "Julusian",
             "repo": "node-elgato-stream-deck",
-            "stars": 204,
+            "stars": 203,
             "topics": [
               "elgato",
               "stream-deck",
@@ -317,7 +317,7 @@
             "open_issues": 54,
             "owner": "GoogleChrome",
             "repo": "chrome-extensions-samples",
-            "stars": 17753,
+            "stars": 17754,
             "topics": [
               "chrome"
             ]
@@ -340,7 +340,7 @@
             "open_issues": 54,
             "owner": "GoogleChrome",
             "repo": "chrome-extensions-samples",
-            "stars": 17753,
+            "stars": 17754,
             "topics": [
               "chrome"
             ]
@@ -363,7 +363,7 @@
             "open_issues": 46,
             "owner": "node-hid",
             "repo": "node-hid",
-            "stars": 1582,
+            "stars": 1581,
             "topics": [
               "electron",
               "hid",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T08:21:32.871Z",
+    "last_updated": "2026-09-10T08:22:13.704Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources relating to the WebHID (Human Interface Device) API",
