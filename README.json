@@ -11,15 +11,15 @@
           "repo_info": {
             "archived": false,
             "description": "Connecting hardware to the web.",
-            "homepage": "https://wicg.github.io/webusb/",
+            "homepage": "https://foolip.github.io/usb/",
             "id": 35305773,
             "language": "Bikeshed",
             "license": "NOASSERTION",
             "last_commit": "2026-06-05T19:45:25Z",
             "open_issues": 44,
-            "owner": "WICG",
-            "repo": "webusb",
-            "stars": 1408,
+            "owner": "whatwg",
+            "repo": "usb",
+            "stars": 1409,
             "topics": [
               "shipping-chromium"
             ]
@@ -46,8 +46,8 @@
             "license": "NOASSERTION",
             "last_commit": "2024-09-13T20:42:08Z",
             "open_issues": 48,
-            "owner": "WICG",
-            "repo": "webhid",
+            "owner": "whatwg",
+            "repo": "hid",
             "stars": 167,
             "topics": [
               "shipping-chromium"
@@ -363,7 +363,7 @@
             "open_issues": 46,
             "owner": "node-hid",
             "repo": "node-hid",
-            "stars": 1581,
+            "stars": 1580,
             "topics": [
               "electron",
               "hid",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T09:13:48.089Z",
+    "last_updated": "2026-09-15T08:56:18.112Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources relating to the WebHID (Human Interface Device) API",
