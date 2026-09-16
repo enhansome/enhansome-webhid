@@ -11,12 +11,12 @@
           "repo_info": {
             "archived": false,
             "description": "Connecting hardware to the web.",
-            "homepage": "https://foolip.github.io/usb/",
+            "homepage": "https://usb.spec.whatwg.org/",
             "id": 35305773,
             "language": "Bikeshed",
             "license": "NOASSERTION",
             "last_commit": "2026-06-05T19:45:25Z",
-            "open_issues": 44,
+            "open_issues": 45,
             "owner": "whatwg",
             "repo": "usb",
             "stars": 1409,
@@ -40,12 +40,12 @@
           "repo_info": {
             "archived": false,
             "description": "Web API for accessing Human Interface Devices (HID)",
-            "homepage": null,
+            "homepage": "https://hid.spec.whatwg.org/",
             "id": 150184680,
             "language": "HTML",
             "license": "NOASSERTION",
             "last_commit": "2024-09-13T20:42:08Z",
-            "open_issues": 48,
+            "open_issues": 49,
             "owner": "whatwg",
             "repo": "hid",
             "stars": 167,
@@ -174,11 +174,11 @@
             "id": 189080231,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-13T07:21:18Z",
-            "open_issues": 26,
+            "last_commit": "2026-09-15T21:00:03Z",
+            "open_issues": 10,
             "owner": "Julusian",
             "repo": "node-elgato-stream-deck",
-            "stars": 203,
+            "stars": 204,
             "topics": [
               "elgato",
               "stream-deck",
@@ -203,7 +203,7 @@
             "open_issues": 6,
             "owner": "tomayac",
             "repo": "joy-con-webhid",
-            "stars": 187,
+            "stars": 188,
             "topics": [
               "hid",
               "joy-con",
@@ -233,11 +233,11 @@
             "id": 189080231,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-13T07:21:18Z",
-            "open_issues": 26,
+            "last_commit": "2026-09-15T21:00:03Z",
+            "open_issues": 10,
             "owner": "Julusian",
             "repo": "node-elgato-stream-deck",
-            "stars": 203,
+            "stars": 204,
             "topics": [
               "elgato",
               "stream-deck",
@@ -313,11 +313,11 @@
             "id": 4644745,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T00:02:13Z",
+            "last_commit": "2026-09-15T13:50:11Z",
             "open_issues": 54,
             "owner": "GoogleChrome",
             "repo": "chrome-extensions-samples",
-            "stars": 17766,
+            "stars": 17769,
             "topics": [
               "chrome"
             ]
@@ -336,11 +336,11 @@
             "id": 4644745,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T00:02:13Z",
+            "last_commit": "2026-09-15T13:50:11Z",
             "open_issues": 54,
             "owner": "GoogleChrome",
             "repo": "chrome-extensions-samples",
-            "stars": 17766,
+            "stars": 17769,
             "topics": [
               "chrome"
             ]
@@ -410,7 +410,7 @@
             "open_issues": 10,
             "owner": "beaufortfrancois",
             "repo": "sandbox",
-            "stars": 81,
+            "stars": 82,
             "topics": [
               "image-capture",
               "media-capabilities",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T08:56:18.112Z",
+    "last_updated": "2026-09-16T08:48:54.544Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources relating to the WebHID (Human Interface Device) API",
