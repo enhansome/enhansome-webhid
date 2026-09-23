@@ -55,7 +55,7 @@ None yet.
 
 *Devices that work well with WebHID, and device-specific abstraction libraries. Do also file an issue to inform others of devices that don't. Not all devices in the USB HID device class will communicate using the high-level abstractions.*
 
-* [Blink(1)](https://blink1.thingm.com) - notification light (see demos section, and prior art [node-blink1](https://github.com/sandeepmistry/node-blink1) ⭐ 52 | 🐛 6 | 🌐 JavaScript | 📅 2026-06-07).
+* [Blink(1)](https://blink1.thingm.com) - notification light (see demos section, and prior art [node-blink1](https://github.com/sandeepmistry/node-blink1) ⭐ 52 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-22).
 * [BlinkStick](https://www.blinkstick.com) - light devices and controllers (see demos section, and prior art [blinkstick](https://github.com/arvydas/blinkstick-node) ⭐ 49 | 🐛 25 | 🌐 JavaScript | 📅 2023-08-17)
 * [Elgato Stream Deck](https://www.elgato.com/en/gaming/stream-deck) - programmable button panel (see demos, and libraries)
 * [Razer Kraken Kitty Edition Headset](https://www.razer.com/gaming-headsets/razer-kraken-kitty) - headset with customizable LED lighting
@@ -91,13 +91,13 @@ None yet.
 
 ## Libraries
 
-* [@elgato-stream-deck/webhid](https://github.com/julusian/node-elgato-stream-deck) ⭐ 205 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-17 - using the Elgato Stream Deck (see demos).
+* [@elgato-stream-deck/webhid](https://github.com/julusian/node-elgato-stream-deck) ⭐ 205 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-22 - using the Elgato Stream Deck (see demos).
 * [tomayac/joy-con-webhid](https://github.com/tomayac/joy-con-webhid) ⭐ 188 | 🐛 6 | 🌐 TypeScript | 📅 2025-07-17 - using Nintendo Joy-Cons.
 * [TheBITLINK/WebHID-DS4](https://thebitlink.github.io/WebHID-DS4/) - using a DualShock 4 controller.
 
 ## Demos, experiments & hacks
 
-* [Elgato StreamDeck](https://julusian.github.io/node-elgato-stream-deck/) - using the Elgato Stream Deck (via [@elgato-stream-deck/webhid](https://github.com/julusian/node-elgato-stream-deck) ⭐ 205 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-17).
+* [Elgato StreamDeck](https://julusian.github.io/node-elgato-stream-deck/) - using the Elgato Stream Deck (via [@elgato-stream-deck/webhid](https://github.com/julusian/node-elgato-stream-deck) ⭐ 205 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-22).
 * [tomayac/chrome-dino-webhid](https://github.com/tomayac/chrome-dino-webhid) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2021-02-27 - using Nintendo Joy-Cons.
 * [robatwilliams/webhid-demos](https://github.com/robatwilliams/webhid-demos) ⚠️ Archived - using the BlinkStick Strip.
 * [todbot/blink1-webhid](https://todbot.github.io/blink1-webhid/) - using the blink(1).
@@ -113,8 +113,8 @@ None yet.
 
 *Transferrable inspiration from related areas such as general Bluetooth/USB HID, Web Bluetooth, and WebUSB.*
 
-* [chrome.hid API sample](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/hid) ⭐ 17,776 | 🐛 54 | 🌐 JavaScript | 📅 2026-09-18 - Generic input/output Chrome App sample.
-* [blink(1) using the chrome.hid API](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/blink1) ⭐ 17,776 | 🐛 54 | 🌐 JavaScript | 📅 2026-09-18 - Chrome App sample that controls a [Blink(1)](https://blink1.thingm.com) notification LED.
+* [chrome.hid API sample](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/hid) ⭐ 17,777 | 🐛 54 | 🌐 JavaScript | 📅 2026-09-22 - Generic input/output Chrome App sample.
+* [blink(1) using the chrome.hid API](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/blink1) ⭐ 17,777 | 🐛 54 | 🌐 JavaScript | 📅 2026-09-22 - Chrome App sample that controls a [Blink(1)](https://blink1.thingm.com) notification LED.
 * [node-hid examples](https://github.com/node-hid/node-hid#examples) ⭐ 1,579 | 🐛 46 | 🌐 C++ | 📅 2026-07-20 - Despite the name, most directly use low-level read/write operations rather than HID abstractions.
 * [Web Bluetooth Demos](https://github.com/WebBluetoothCG/demos) ⭐ 677 | 🐛 7 | 🌐 HTML | 📅 2024-04-19 (Web Bluetooth Community Group) - Various, plus links to others.
 * [Griffin Powermate Playground](https://github.com/beaufortfrancois/sandbox/blob/gh-pages/webusb/griffin-powermate.html) ⭐ 82 | 🐛 10 | 🌐 HTML | 📅 2026-08-07 - Using WebUSB.
@@ -151,4 +151,4 @@ None yet.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._

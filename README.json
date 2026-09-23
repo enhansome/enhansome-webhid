@@ -73,7 +73,7 @@
             "id": 7104273,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-06-07T19:18:06Z",
+            "last_commit": "2026-09-22T22:53:46Z",
             "open_issues": 6,
             "owner": "sandeepmistry",
             "repo": "node-blink1",
@@ -174,7 +174,7 @@
             "id": 189080231,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-17T21:59:28Z",
+            "last_commit": "2026-09-22T22:22:52Z",
             "open_issues": 11,
             "owner": "Julusian",
             "repo": "node-elgato-stream-deck",
@@ -233,7 +233,7 @@
             "id": 189080231,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-17T21:59:28Z",
+            "last_commit": "2026-09-22T22:22:52Z",
             "open_issues": 11,
             "owner": "Julusian",
             "repo": "node-elgato-stream-deck",
@@ -313,11 +313,11 @@
             "id": 4644745,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T07:44:11Z",
+            "last_commit": "2026-09-22T13:30:45Z",
             "open_issues": 54,
             "owner": "GoogleChrome",
             "repo": "chrome-extensions-samples",
-            "stars": 17776,
+            "stars": 17777,
             "topics": [
               "chrome"
             ]
@@ -336,11 +336,11 @@
             "id": 4644745,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T07:44:11Z",
+            "last_commit": "2026-09-22T13:30:45Z",
             "open_issues": 54,
             "owner": "GoogleChrome",
             "repo": "chrome-extensions-samples",
-            "stars": 17776,
+            "stars": 17777,
             "topics": [
               "chrome"
             ]
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T08:47:14.659Z",
+    "last_updated": "2026-09-23T08:48:20.870Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources relating to the WebHID (Human Interface Device) API",
@@ -434,10 +434,10 @@
       "language": null,
       "license": null,
       "last_commit": "2022-12-20T21:05:24Z",
-      "open_issues": 3,
+      "open_issues": 2,
       "owner": "robatwilliams",
       "repo": "awesome-webhid",
-      "stars": 206,
+      "stars": 203,
       "topics": [
         "awesome",
         "awesome-list",
