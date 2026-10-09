@@ -31,14 +31,14 @@ Enabled by default since Chrome 89 (March 2021).
 
 ## Good to know
 
-* Neither the WebUSB<sup>[(ref)](https://github.com/WICG/webusb/issues/29) ⭐ 1,408 | 🐛 47 | 🌐 Bikeshed | 📅 2026-06-05</sup> or Web Bluetooth<sup>[(ref)](https://github.com/WebBluetoothCG/web-bluetooth/issues/393) ⭐ 1,450 | 🐛 107 | 🌐 Bikeshed | 📅 2026-06-03</sup> APIs allow access to HID-class devices.
+* Neither the WebUSB<sup>[(ref)](https://github.com/WICG/webusb/issues/29) ⭐ 1,409 | 🐛 47 | 🌐 Bikeshed | 📅 2026-06-05</sup> or Web Bluetooth<sup>[(ref)](https://github.com/WebBluetoothCG/web-bluetooth/issues/393) ⭐ 1,451 | 🐛 107 | 🌐 Bikeshed | 📅 2026-06-03</sup> APIs allow access to HID-class devices.
 * WebHID is not a W3C Standard nor is it on the W3C Standards Track<sup>[(ref)](https://wicg.github.io/webhid)</sup>.
 * Devices that generate trusted input (e.g. keyboards, mice, security keys) will not be accessible. Such devices define their reports in [top-level HID collections](https://docs.microsoft.com/en-us/windows-hardware/drivers/hid/top-level-collections) that will be considered protected usages<sup>[(ref1)](https://groups.google.com/a/chromium.org/d/msg/blink-dev/OaDCpCaEe_4/uZ0z7frlAAAJ]), [(ref2)](https://discourse.wicg.io/t/human-interface-device-hid-api/3070/6])</sup>.
 * Access to a device must be granted by the user via a chooser dialog provided by the browser, similarly to WebUSB and Web Bluetooth. Launching the chooser must be done from the context of a user gesture (e.g. a mouse click).
 
 ## Specification & documentation
 
-* [WebHID Explainer](https://github.com/WICG/webhid/blob/master/EXPLAINER.md) ⭐ 167 | 🐛 50 | 🌐 HTML | 📅 2024-09-13 - The what & why in a nutshell, including basic terminology and an example. Some API details outdated.
+* [WebHID Explainer](https://github.com/WICG/webhid/blob/master/EXPLAINER.md) ⭐ 167 | 🐛 53 | 🌐 HTML | 📅 2024-09-13 - The what & why in a nutshell, including basic terminology and an example. Some API details outdated.
 * [WebHID API Specification](https://wicg.github.io/webhid) (Web Platform Incubator Community Group (WICG)) - Including introduction, motivating applications, and security/privacy.
 * [WebHID (Human Interface Device) - Chrome Platform Status](https://www.chromestatus.com/feature/5172464636133376)
 * [Chromium implementation tracking bug: WebHID API](https://bugs.chromium.org/p/chromium/issues/detail?id=890096) - Labelled with targeted & stable release versions; see the [development/release calendar](https://www.chromium.org/developers/calendar).
@@ -151,4 +151,4 @@ None yet.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._

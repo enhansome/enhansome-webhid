@@ -19,7 +19,7 @@
             "open_issues": 47,
             "owner": "whatwg",
             "repo": "usb",
-            "stars": 1408,
+            "stars": 1409,
             "topics": [
               "shipping-chromium"
             ]
@@ -45,7 +45,7 @@
             "language": "HTML",
             "license": "NOASSERTION",
             "last_commit": "2024-09-13T20:42:08Z",
-            "open_issues": 50,
+            "open_issues": 53,
             "owner": "whatwg",
             "repo": "hid",
             "stars": 167,
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T10:53:29.304Z",
+    "last_updated": "2026-10-09T10:52:16.195Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources relating to the WebHID (Human Interface Device) API",
@@ -437,7 +437,7 @@
       "open_issues": 2,
       "owner": "robatwilliams",
       "repo": "awesome-webhid",
-      "stars": 203,
+      "stars": 204,
       "topics": [
         "awesome",
         "awesome-list",
