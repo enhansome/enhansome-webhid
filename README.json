@@ -19,7 +19,7 @@
             "open_issues": 47,
             "owner": "whatwg",
             "repo": "usb",
-            "stars": 1408,
+            "stars": 1409,
             "topics": [
               "shipping-chromium"
             ]
@@ -174,11 +174,11 @@
             "id": 189080231,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T22:13:33Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-13T20:39:05Z",
+            "open_issues": 11,
             "owner": "Julusian",
             "repo": "node-elgato-stream-deck",
-            "stars": 205,
+            "stars": 206,
             "topics": [
               "elgato",
               "stream-deck",
@@ -233,11 +233,11 @@
             "id": 189080231,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T22:13:33Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-13T20:39:05Z",
+            "open_issues": 11,
             "owner": "Julusian",
             "repo": "node-elgato-stream-deck",
-            "stars": 205,
+            "stars": 206,
             "topics": [
               "elgato",
               "stream-deck",
@@ -317,7 +317,7 @@
             "open_issues": 57,
             "owner": "GoogleChrome",
             "repo": "chrome-extensions-samples",
-            "stars": 17810,
+            "stars": 17813,
             "topics": [
               "chrome"
             ]
@@ -340,7 +340,7 @@
             "open_issues": 57,
             "owner": "GoogleChrome",
             "repo": "chrome-extensions-samples",
-            "stars": 17810,
+            "stars": 17813,
             "topics": [
               "chrome"
             ]
@@ -363,7 +363,7 @@
             "open_issues": 46,
             "owner": "node-hid",
             "repo": "node-hid",
-            "stars": 1579,
+            "stars": 1580,
             "topics": [
               "electron",
               "hid",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T11:01:05.555Z",
+    "last_updated": "2026-10-14T08:59:23.118Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources relating to the WebHID (Human Interface Device) API",
@@ -434,10 +434,10 @@
       "language": null,
       "license": null,
       "last_commit": "2022-12-20T21:05:24Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "robatwilliams",
       "repo": "awesome-webhid",
-      "stars": 204,
+      "stars": 205,
       "topics": [
         "awesome",
         "awesome-list",
