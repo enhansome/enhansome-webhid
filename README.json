@@ -174,8 +174,8 @@
             "id": 189080231,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-16T21:12:42Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-17T13:35:24Z",
+            "open_issues": 12,
             "owner": "Julusian",
             "repo": "node-elgato-stream-deck",
             "stars": 206,
@@ -203,7 +203,7 @@
             "open_issues": 6,
             "owner": "tomayac",
             "repo": "joy-con-webhid",
-            "stars": 188,
+            "stars": 189,
             "topics": [
               "hid",
               "joy-con",
@@ -233,8 +233,8 @@
             "id": 189080231,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-16T21:12:42Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-17T13:35:24Z",
+            "open_issues": 12,
             "owner": "Julusian",
             "repo": "node-elgato-stream-deck",
             "stars": 206,
@@ -317,7 +317,7 @@
             "open_issues": 59,
             "owner": "GoogleChrome",
             "repo": "chrome-extensions-samples",
-            "stars": 17814,
+            "stars": 17813,
             "topics": [
               "chrome"
             ]
@@ -340,7 +340,7 @@
             "open_issues": 59,
             "owner": "GoogleChrome",
             "repo": "chrome-extensions-samples",
-            "stars": 17814,
+            "stars": 17813,
             "topics": [
               "chrome"
             ]
@@ -363,7 +363,7 @@
             "open_issues": 46,
             "owner": "node-hid",
             "repo": "node-hid",
-            "stars": 1580,
+            "stars": 1581,
             "topics": [
               "electron",
               "hid",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T08:00:29.498Z",
+    "last_updated": "2026-10-18T08:18:20.387Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources relating to the WebHID (Human Interface Device) API",
