@@ -19,7 +19,7 @@
             "open_issues": 47,
             "owner": "whatwg",
             "repo": "usb",
-            "stars": 1409,
+            "stars": 1410,
             "topics": [
               "shipping-chromium"
             ]
@@ -45,7 +45,7 @@
             "language": "HTML",
             "license": "NOASSERTION",
             "last_commit": "2024-09-13T20:42:08Z",
-            "open_issues": 60,
+            "open_issues": 61,
             "owner": "whatwg",
             "repo": "hid",
             "stars": 167,
@@ -313,11 +313,11 @@
             "id": 4644745,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-18T13:05:14Z",
-            "open_issues": 60,
+            "last_commit": "2026-10-19T19:18:05Z",
+            "open_issues": 61,
             "owner": "GoogleChrome",
             "repo": "chrome-extensions-samples",
-            "stars": 17812,
+            "stars": 17813,
             "topics": [
               "chrome"
             ]
@@ -336,11 +336,11 @@
             "id": 4644745,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-18T13:05:14Z",
-            "open_issues": 60,
+            "last_commit": "2026-10-19T19:18:05Z",
+            "open_issues": 61,
             "owner": "GoogleChrome",
             "repo": "chrome-extensions-samples",
-            "stars": 17812,
+            "stars": 17813,
             "topics": [
               "chrome"
             ]
@@ -363,7 +363,7 @@
             "open_issues": 46,
             "owner": "node-hid",
             "repo": "node-hid",
-            "stars": 1580,
+            "stars": 1581,
             "topics": [
               "electron",
               "hid",
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T09:15:58.812Z",
+    "last_updated": "2026-10-20T08:50:26.635Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources relating to the WebHID (Human Interface Device) API",
@@ -434,7 +434,7 @@
       "language": null,
       "license": null,
       "last_commit": "2022-12-20T21:05:24Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "robatwilliams",
       "repo": "awesome-webhid",
       "stars": 205,
