@@ -38,7 +38,7 @@ Enabled by default since Chrome 89 (March 2021).
 
 ## Specification & documentation
 
-* [WebHID Explainer](https://github.com/WICG/webhid/blob/master/EXPLAINER.md) ⭐ 167 | 🐛 69 | 🌐 HTML | 📅 2024-09-13 - The what & why in a nutshell, including basic terminology and an example. Some API details outdated.
+* [WebHID Explainer](https://github.com/WICG/webhid/blob/master/EXPLAINER.md) ⭐ 167 | 🐛 72 | 🌐 HTML | 📅 2024-09-13 - The what & why in a nutshell, including basic terminology and an example. Some API details outdated.
 * [WebHID API Specification](https://wicg.github.io/webhid) (Web Platform Incubator Community Group (WICG)) - Including introduction, motivating applications, and security/privacy.
 * [WebHID (Human Interface Device) - Chrome Platform Status](https://www.chromestatus.com/feature/5172464636133376)
 * [Chromium implementation tracking bug: WebHID API](https://bugs.chromium.org/p/chromium/issues/detail?id=890096) - Labelled with targeted & stable release versions; see the [development/release calendar](https://www.chromium.org/developers/calendar).
@@ -78,7 +78,7 @@ None yet.
 
 * [USBDeview](https://www.nirsoft.net/utils/usb_devices_view.html) - View device information.
 * [USB Device Tree Viewer](https://www.uwe-sieber.de/usbtreeview_e.html) - View device information including interface and HID descriptors.
-* [node-hid](https://github.com/node-hid/node-hid) ⭐ 1,581 | 🐛 46 | 🌐 C++ | 📅 2026-07-20 - Cross-platform library for accessing USB HID devices from Node.js or Electron.
+* [node-hid](https://github.com/node-hid/node-hid) ⭐ 1,582 | 🐛 46 | 🌐 C++ | 📅 2026-07-20 - Cross-platform library for accessing USB HID devices from Node.js or Electron.
 
 ## Bluetooth, USB, & HID reference
 
@@ -91,13 +91,13 @@ None yet.
 
 ## Libraries
 
-* [@elgato-stream-deck/webhid](https://github.com/julusian/node-elgato-stream-deck) ⭐ 207 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-20 - using the Elgato Stream Deck (see demos).
+* [@elgato-stream-deck/webhid](https://github.com/julusian/node-elgato-stream-deck) ⭐ 207 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-20 - using the Elgato Stream Deck (see demos).
 * [tomayac/joy-con-webhid](https://github.com/tomayac/joy-con-webhid) ⭐ 191 | 🐛 6 | 🌐 TypeScript | 📅 2025-07-17 - using Nintendo Joy-Cons.
 * [TheBITLINK/WebHID-DS4](https://thebitlink.github.io/WebHID-DS4/) - using a DualShock 4 controller.
 
 ## Demos, experiments & hacks
 
-* [Elgato StreamDeck](https://julusian.github.io/node-elgato-stream-deck/) - using the Elgato Stream Deck (via [@elgato-stream-deck/webhid](https://github.com/julusian/node-elgato-stream-deck) ⭐ 207 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-20).
+* [Elgato StreamDeck](https://julusian.github.io/node-elgato-stream-deck/) - using the Elgato Stream Deck (via [@elgato-stream-deck/webhid](https://github.com/julusian/node-elgato-stream-deck) ⭐ 207 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-20).
 * [tomayac/chrome-dino-webhid](https://github.com/tomayac/chrome-dino-webhid) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2021-02-27 - using Nintendo Joy-Cons.
 * [robatwilliams/webhid-demos](https://github.com/robatwilliams/webhid-demos) ⚠️ Archived - using the BlinkStick Strip.
 * [todbot/blink1-webhid](https://todbot.github.io/blink1-webhid/) - using the blink(1).
@@ -113,9 +113,9 @@ None yet.
 
 *Transferrable inspiration from related areas such as general Bluetooth/USB HID, Web Bluetooth, and WebUSB.*
 
-* [chrome.hid API sample](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/hid) ⭐ 17,816 | 🐛 59 | 🌐 JavaScript | 📅 2026-10-20 - Generic input/output Chrome App sample.
-* [blink(1) using the chrome.hid API](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/blink1) ⭐ 17,816 | 🐛 59 | 🌐 JavaScript | 📅 2026-10-20 - Chrome App sample that controls a [Blink(1)](https://blink1.thingm.com) notification LED.
-* [node-hid examples](https://github.com/node-hid/node-hid#examples) ⭐ 1,581 | 🐛 46 | 🌐 C++ | 📅 2026-07-20 - Despite the name, most directly use low-level read/write operations rather than HID abstractions.
+* [chrome.hid API sample](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/hid) ⭐ 17,818 | 🐛 59 | 🌐 JavaScript | 📅 2026-10-20 - Generic input/output Chrome App sample.
+* [blink(1) using the chrome.hid API](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/blink1) ⭐ 17,818 | 🐛 59 | 🌐 JavaScript | 📅 2026-10-20 - Chrome App sample that controls a [Blink(1)](https://blink1.thingm.com) notification LED.
+* [node-hid examples](https://github.com/node-hid/node-hid#examples) ⭐ 1,582 | 🐛 46 | 🌐 C++ | 📅 2026-07-20 - Despite the name, most directly use low-level read/write operations rather than HID abstractions.
 * [Web Bluetooth Demos](https://github.com/WebBluetoothCG/demos) ⭐ 676 | 🐛 7 | 🌐 HTML | 📅 2024-04-19 (Web Bluetooth Community Group) - Various, plus links to others.
 * [Griffin Powermate Playground](https://github.com/beaufortfrancois/sandbox/blob/gh-pages/webusb/griffin-powermate.html) ⭐ 82 | 🐛 10 | 🌐 HTML | 📅 2026-08-07 - Using WebUSB.
 * [Interacting with USB HID devices from web apps](https://keetrax.com/blog/2015/01/interacting-usb-hid-devices-web-apps/) - Using a Chrome App as a go-between between a dictation foot pedal and a web application (2015).
@@ -151,4 +151,4 @@ None yet.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
