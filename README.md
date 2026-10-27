@@ -38,7 +38,7 @@ Enabled by default since Chrome 89 (March 2021).
 
 ## Specification & documentation
 
-* [WebHID Explainer](https://github.com/WICG/webhid/blob/master/EXPLAINER.md) ⭐ 167 | 🐛 72 | 🌐 HTML | 📅 2024-09-13 - The what & why in a nutshell, including basic terminology and an example. Some API details outdated.
+* [WebHID Explainer](https://github.com/WICG/webhid/blob/master/EXPLAINER.md) ⭐ 167 | 🐛 75 | 🌐 HTML | 📅 2026-10-26 - The what & why in a nutshell, including basic terminology and an example. Some API details outdated.
 * [WebHID API Specification](https://wicg.github.io/webhid) (Web Platform Incubator Community Group (WICG)) - Including introduction, motivating applications, and security/privacy.
 * [WebHID (Human Interface Device) - Chrome Platform Status](https://www.chromestatus.com/feature/5172464636133376)
 * [Chromium implementation tracking bug: WebHID API](https://bugs.chromium.org/p/chromium/issues/detail?id=890096) - Labelled with targeted & stable release versions; see the [development/release calendar](https://www.chromium.org/developers/calendar).
@@ -107,14 +107,14 @@ None yet.
 
 * [Ergometer Space](https://ergometer-space.org) - Track your indoor rowing exercise, alone or with other online users.
 * [Kraken Kitty Edition Controller](https://sarahemm.github.io/razerkitty-webhid/) - Control the LED lighting on your Razer Kraken Kitty Edition headset.
-* [Remap](https://remap-keys.app) - Customize a keyboard's keymap (see [remap-keys/remap](https://github.com/remap-keys/remap) ⭐ 277 | 🐛 43 | 🌐 TypeScript | 📅 2026-09-04).
+* [Remap](https://remap-keys.app) - Customize a keyboard's keymap (see [remap-keys/remap](https://github.com/remap-keys/remap) ⭐ 278 | 🐛 43 | 🌐 TypeScript | 📅 2026-09-04).
 
 ## Inspiration from elsewhere
 
 *Transferrable inspiration from related areas such as general Bluetooth/USB HID, Web Bluetooth, and WebUSB.*
 
-* [chrome.hid API sample](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/hid) ⭐ 17,823 | 🐛 59 | 🌐 JavaScript | 📅 2026-10-20 - Generic input/output Chrome App sample.
-* [blink(1) using the chrome.hid API](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/blink1) ⭐ 17,823 | 🐛 59 | 🌐 JavaScript | 📅 2026-10-20 - Chrome App sample that controls a [Blink(1)](https://blink1.thingm.com) notification LED.
+* [chrome.hid API sample](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/hid) ⭐ 17,825 | 🐛 60 | 🌐 JavaScript | 📅 2026-10-20 - Generic input/output Chrome App sample.
+* [blink(1) using the chrome.hid API](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/blink1) ⭐ 17,825 | 🐛 60 | 🌐 JavaScript | 📅 2026-10-20 - Chrome App sample that controls a [Blink(1)](https://blink1.thingm.com) notification LED.
 * [node-hid examples](https://github.com/node-hid/node-hid#examples) ⭐ 1,581 | 🐛 46 | 🌐 C++ | 📅 2026-07-20 - Despite the name, most directly use low-level read/write operations rather than HID abstractions.
 * [Web Bluetooth Demos](https://github.com/WebBluetoothCG/demos) ⭐ 676 | 🐛 7 | 🌐 HTML | 📅 2024-04-19 (Web Bluetooth Community Group) - Various, plus links to others.
 * [Griffin Powermate Playground](https://github.com/beaufortfrancois/sandbox/blob/gh-pages/webusb/griffin-powermate.html) ⭐ 82 | 🐛 10 | 🌐 HTML | 📅 2026-08-07 - Using WebUSB.
@@ -151,4 +151,4 @@ None yet.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
