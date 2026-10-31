@@ -38,7 +38,7 @@ Enabled by default since Chrome 89 (March 2021).
 
 ## Specification & documentation
 
-* [WebHID Explainer](https://github.com/WICG/webhid/blob/master/EXPLAINER.md) ⭐ 167 | 🐛 77 | 🌐 HTML | 📅 2026-10-30 - The what & why in a nutshell, including basic terminology and an example. Some API details outdated.
+* [WebHID Explainer](https://github.com/WICG/webhid/blob/master/EXPLAINER.md) ⭐ 167 | 🐛 70 | 🌐 HTML | 📅 2026-10-30 - The what & why in a nutshell, including basic terminology and an example. Some API details outdated.
 * [WebHID API Specification](https://wicg.github.io/webhid) (Web Platform Incubator Community Group (WICG)) - Including introduction, motivating applications, and security/privacy.
 * [WebHID (Human Interface Device) - Chrome Platform Status](https://www.chromestatus.com/feature/5172464636133376)
 * [Chromium implementation tracking bug: WebHID API](https://bugs.chromium.org/p/chromium/issues/detail?id=890096) - Labelled with targeted & stable release versions; see the [development/release calendar](https://www.chromium.org/developers/calendar).
@@ -151,4 +151,4 @@ None yet.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
