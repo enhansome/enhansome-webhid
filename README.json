@@ -16,7 +16,7 @@
             "language": "Bikeshed",
             "license": "NOASSERTION",
             "last_commit": "2026-06-05T19:45:25Z",
-            "open_issues": 48,
+            "open_issues": 49,
             "owner": "whatwg",
             "repo": "usb",
             "stars": 1410,
@@ -317,7 +317,7 @@
             "open_issues": 58,
             "owner": "GoogleChrome",
             "repo": "chrome-extensions-samples",
-            "stars": 17847,
+            "stars": 17848,
             "topics": [
               "chrome"
             ]
@@ -340,7 +340,7 @@
             "open_issues": 58,
             "owner": "GoogleChrome",
             "repo": "chrome-extensions-samples",
-            "stars": 17847,
+            "stars": 17848,
             "topics": [
               "chrome"
             ]
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T10:38:03.472Z",
+    "last_updated": "2026-11-08T10:43:04.930Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources relating to the WebHID (Human Interface Device) API",
