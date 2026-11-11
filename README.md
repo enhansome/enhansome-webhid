@@ -31,7 +31,7 @@ Enabled by default since Chrome 89 (March 2021).
 
 ## Good to know
 
-* Neither the WebUSB<sup>[(ref)](https://github.com/WICG/webusb/issues/29) ⭐ 1,411 | 🐛 49 | 🌐 Bikeshed | 📅 2026-06-05</sup> or Web Bluetooth<sup>[(ref)](https://github.com/WebBluetoothCG/web-bluetooth/issues/393) ⭐ 1,447 | 🐛 107 | 🌐 Bikeshed | 📅 2026-06-03</sup> APIs allow access to HID-class devices.
+* Neither the WebUSB<sup>[(ref)](https://github.com/WICG/webusb/issues/29) ⭐ 1,412 | 🐛 49 | 🌐 Bikeshed | 📅 2026-06-05</sup> or Web Bluetooth<sup>[(ref)](https://github.com/WebBluetoothCG/web-bluetooth/issues/393) ⭐ 1,447 | 🐛 107 | 🌐 Bikeshed | 📅 2026-06-03</sup> APIs allow access to HID-class devices.
 * WebHID is not a W3C Standard nor is it on the W3C Standards Track<sup>[(ref)](https://wicg.github.io/webhid)</sup>.
 * Devices that generate trusted input (e.g. keyboards, mice, security keys) will not be accessible. Such devices define their reports in [top-level HID collections](https://docs.microsoft.com/en-us/windows-hardware/drivers/hid/top-level-collections) that will be considered protected usages<sup>[(ref1)](https://groups.google.com/a/chromium.org/d/msg/blink-dev/OaDCpCaEe_4/uZ0z7frlAAAJ]), [(ref2)](https://discourse.wicg.io/t/human-interface-device-hid-api/3070/6])</sup>.
 * Access to a device must be granted by the user via a chooser dialog provided by the browser, similarly to WebUSB and Web Bluetooth. Launching the chooser must be done from the context of a user gesture (e.g. a mouse click).
@@ -78,7 +78,7 @@ None yet.
 
 * [USBDeview](https://www.nirsoft.net/utils/usb_devices_view.html) - View device information.
 * [USB Device Tree Viewer](https://www.uwe-sieber.de/usbtreeview_e.html) - View device information including interface and HID descriptors.
-* [node-hid](https://github.com/node-hid/node-hid) ⭐ 1,583 | 🐛 47 | 🌐 C++ | 📅 2026-07-20 - Cross-platform library for accessing USB HID devices from Node.js or Electron.
+* [node-hid](https://github.com/node-hid/node-hid) ⭐ 1,583 | 🐛 48 | 🌐 C++ | 📅 2026-07-20 - Cross-platform library for accessing USB HID devices from Node.js or Electron.
 
 ## Bluetooth, USB, & HID reference
 
@@ -113,9 +113,9 @@ None yet.
 
 *Transferrable inspiration from related areas such as general Bluetooth/USB HID, Web Bluetooth, and WebUSB.*
 
-* [chrome.hid API sample](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/hid) ⭐ 17,850 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-03 - Generic input/output Chrome App sample.
-* [blink(1) using the chrome.hid API](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/blink1) ⭐ 17,850 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-03 - Chrome App sample that controls a [Blink(1)](https://blink1.thingm.com) notification LED.
-* [node-hid examples](https://github.com/node-hid/node-hid#examples) ⭐ 1,583 | 🐛 47 | 🌐 C++ | 📅 2026-07-20 - Despite the name, most directly use low-level read/write operations rather than HID abstractions.
+* [chrome.hid API sample](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/hid) ⭐ 17,852 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-10 - Generic input/output Chrome App sample.
+* [blink(1) using the chrome.hid API](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/blink1) ⭐ 17,852 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-10 - Chrome App sample that controls a [Blink(1)](https://blink1.thingm.com) notification LED.
+* [node-hid examples](https://github.com/node-hid/node-hid#examples) ⭐ 1,583 | 🐛 48 | 🌐 C++ | 📅 2026-07-20 - Despite the name, most directly use low-level read/write operations rather than HID abstractions.
 * [Web Bluetooth Demos](https://github.com/WebBluetoothCG/demos) ⭐ 676 | 🐛 7 | 🌐 HTML | 📅 2024-04-19 (Web Bluetooth Community Group) - Various, plus links to others.
 * [Griffin Powermate Playground](https://github.com/beaufortfrancois/sandbox/blob/gh-pages/webusb/griffin-powermate.html) ⭐ 82 | 🐛 11 | 🌐 HTML | 📅 2026-10-29 - Using WebUSB.
 * [Interacting with USB HID devices from web apps](https://keetrax.com/blog/2015/01/interacting-usb-hid-devices-web-apps/) - Using a Chrome App as a go-between between a dictation foot pedal and a web application (2015).
@@ -151,4 +151,4 @@ None yet.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._

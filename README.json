@@ -19,7 +19,7 @@
             "open_issues": 49,
             "owner": "whatwg",
             "repo": "usb",
-            "stars": 1411,
+            "stars": 1412,
             "topics": [
               "shipping-chromium"
             ]
@@ -313,11 +313,11 @@
             "id": 4644745,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T13:27:01Z",
+            "last_commit": "2026-11-10T13:32:14Z",
             "open_issues": 58,
             "owner": "GoogleChrome",
             "repo": "chrome-extensions-samples",
-            "stars": 17850,
+            "stars": 17852,
             "topics": [
               "chrome"
             ]
@@ -336,11 +336,11 @@
             "id": 4644745,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T13:27:01Z",
+            "last_commit": "2026-11-10T13:32:14Z",
             "open_issues": 58,
             "owner": "GoogleChrome",
             "repo": "chrome-extensions-samples",
-            "stars": 17850,
+            "stars": 17852,
             "topics": [
               "chrome"
             ]
@@ -360,7 +360,7 @@
             "language": "C++",
             "license": "BSD-3-Clause",
             "last_commit": "2026-07-20T09:31:33Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "node-hid",
             "repo": "node-hid",
             "stars": 1583,
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T11:40:58.846Z",
+    "last_updated": "2026-11-11T11:24:13.941Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources relating to the WebHID (Human Interface Device) API",
