@@ -178,7 +178,7 @@
             "open_issues": 11,
             "owner": "Julusian",
             "repo": "node-elgato-stream-deck",
-            "stars": 207,
+            "stars": 208,
             "topics": [
               "elgato",
               "stream-deck",
@@ -237,7 +237,7 @@
             "open_issues": 11,
             "owner": "Julusian",
             "repo": "node-elgato-stream-deck",
-            "stars": 207,
+            "stars": 208,
             "topics": [
               "elgato",
               "stream-deck",
@@ -317,7 +317,7 @@
             "open_issues": 60,
             "owner": "GoogleChrome",
             "repo": "chrome-extensions-samples",
-            "stars": 17863,
+            "stars": 17873,
             "topics": [
               "chrome"
             ]
@@ -340,7 +340,7 @@
             "open_issues": 60,
             "owner": "GoogleChrome",
             "repo": "chrome-extensions-samples",
-            "stars": 17863,
+            "stars": 17873,
             "topics": [
               "chrome"
             ]
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T10:51:57.897Z",
+    "last_updated": "2026-11-15T11:26:03.040Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources relating to the WebHID (Human Interface Device) API",
