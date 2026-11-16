@@ -317,7 +317,7 @@
             "open_issues": 60,
             "owner": "GoogleChrome",
             "repo": "chrome-extensions-samples",
-            "stars": 17873,
+            "stars": 17876,
             "topics": [
               "chrome"
             ]
@@ -340,7 +340,7 @@
             "open_issues": 60,
             "owner": "GoogleChrome",
             "repo": "chrome-extensions-samples",
-            "stars": 17873,
+            "stars": 17876,
             "topics": [
               "chrome"
             ]
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T11:26:03.040Z",
+    "last_updated": "2026-11-16T11:58:25.747Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources relating to the WebHID (Human Interface Device) API",
