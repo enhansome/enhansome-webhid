@@ -38,7 +38,7 @@ Enabled by default since Chrome 89 (March 2021).
 
 ## Specification & documentation
 
-* [WebHID Explainer](https://github.com/WICG/webhid/blob/master/EXPLAINER.md) ⭐ 166 | 🐛 70 | 🌐 HTML | 📅 2026-11-14 - The what & why in a nutshell, including basic terminology and an example. Some API details outdated.
+* [WebHID Explainer](https://github.com/WICG/webhid/blob/master/EXPLAINER.md) ⭐ 166 | 🐛 71 | 🌐 HTML | 📅 2026-11-14 - The what & why in a nutshell, including basic terminology and an example. Some API details outdated.
 * [WebHID API Specification](https://wicg.github.io/webhid) (Web Platform Incubator Community Group (WICG)) - Including introduction, motivating applications, and security/privacy.
 * [WebHID (Human Interface Device) - Chrome Platform Status](https://www.chromestatus.com/feature/5172464636133376)
 * [Chromium implementation tracking bug: WebHID API](https://bugs.chromium.org/p/chromium/issues/detail?id=890096) - Labelled with targeted & stable release versions; see the [development/release calendar](https://www.chromium.org/developers/calendar).
@@ -113,10 +113,10 @@ None yet.
 
 *Transferrable inspiration from related areas such as general Bluetooth/USB HID, Web Bluetooth, and WebUSB.*
 
-* [chrome.hid API sample](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/hid) ⭐ 17,876 | 🐛 60 | 🌐 JavaScript | 📅 2026-11-10 - Generic input/output Chrome App sample.
-* [blink(1) using the chrome.hid API](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/blink1) ⭐ 17,876 | 🐛 60 | 🌐 JavaScript | 📅 2026-11-10 - Chrome App sample that controls a [Blink(1)](https://blink1.thingm.com) notification LED.
+* [chrome.hid API sample](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/hid) ⭐ 17,880 | 🐛 60 | 🌐 JavaScript | 📅 2026-11-10 - Generic input/output Chrome App sample.
+* [blink(1) using the chrome.hid API](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/blink1) ⭐ 17,880 | 🐛 60 | 🌐 JavaScript | 📅 2026-11-10 - Chrome App sample that controls a [Blink(1)](https://blink1.thingm.com) notification LED.
 * [node-hid examples](https://github.com/node-hid/node-hid#examples) ⭐ 1,583 | 🐛 48 | 🌐 C++ | 📅 2026-07-20 - Despite the name, most directly use low-level read/write operations rather than HID abstractions.
-* [Web Bluetooth Demos](https://github.com/WebBluetoothCG/demos) ⭐ 676 | 🐛 7 | 🌐 HTML | 📅 2024-04-19 (Web Bluetooth Community Group) - Various, plus links to others.
+* [Web Bluetooth Demos](https://github.com/WebBluetoothCG/demos) ⭐ 675 | 🐛 7 | 🌐 HTML | 📅 2024-04-19 (Web Bluetooth Community Group) - Various, plus links to others.
 * [Griffin Powermate Playground](https://github.com/beaufortfrancois/sandbox/blob/gh-pages/webusb/griffin-powermate.html) ⭐ 82 | 🐛 11 | 🌐 HTML | 📅 2026-10-29 - Using WebUSB.
 * [Interacting with USB HID devices from web apps](https://keetrax.com/blog/2015/01/interacting-usb-hid-devices-web-apps/) - Using a Chrome App as a go-between between a dictation foot pedal and a web application (2015).
 
@@ -151,4 +151,4 @@ None yet.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
