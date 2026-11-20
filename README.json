@@ -19,7 +19,7 @@
             "open_issues": 50,
             "owner": "whatwg",
             "repo": "usb",
-            "stars": 1411,
+            "stars": 1410,
             "topics": [
               "shipping-chromium"
             ]
@@ -317,7 +317,7 @@
             "open_issues": 59,
             "owner": "GoogleChrome",
             "repo": "chrome-extensions-samples",
-            "stars": 17885,
+            "stars": 17886,
             "topics": [
               "chrome"
             ]
@@ -340,7 +340,7 @@
             "open_issues": 59,
             "owner": "GoogleChrome",
             "repo": "chrome-extensions-samples",
-            "stars": 17885,
+            "stars": 17886,
             "topics": [
               "chrome"
             ]
@@ -425,7 +425,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T12:03:35.596Z",
+    "last_updated": "2026-11-20T12:05:48.479Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of resources relating to the WebHID (Human Interface Device) API",
