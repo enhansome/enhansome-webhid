@@ -107,17 +107,17 @@ None yet.
 
 * [Ergometer Space](https://ergometer-space.org) - Track your indoor rowing exercise, alone or with other online users.
 * [Kraken Kitty Edition Controller](https://sarahemm.github.io/razerkitty-webhid/) - Control the LED lighting on your Razer Kraken Kitty Edition headset.
-* [Remap](https://remap-keys.app) - Customize a keyboard's keymap (see [remap-keys/remap](https://github.com/remap-keys/remap) ⭐ 278 | 🐛 43 | 🌐 TypeScript | 📅 2026-09-04).
+* [Remap](https://remap-keys.app) - Customize a keyboard's keymap (see [remap-keys/remap](https://github.com/remap-keys/remap) ⭐ 277 | 🐛 43 | 🌐 TypeScript | 📅 2026-09-04).
 
 ## Inspiration from elsewhere
 
 *Transferrable inspiration from related areas such as general Bluetooth/USB HID, Web Bluetooth, and WebUSB.*
 
-* [chrome.hid API sample](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/hid) ⭐ 17,890 | 🐛 59 | 🌐 JavaScript | 📅 2026-11-17 - Generic input/output Chrome App sample.
-* [blink(1) using the chrome.hid API](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/blink1) ⭐ 17,890 | 🐛 59 | 🌐 JavaScript | 📅 2026-11-17 - Chrome App sample that controls a [Blink(1)](https://blink1.thingm.com) notification LED.
+* [chrome.hid API sample](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/hid) ⭐ 17,891 | 🐛 59 | 🌐 JavaScript | 📅 2026-11-17 - Generic input/output Chrome App sample.
+* [blink(1) using the chrome.hid API](https://github.com/GoogleChrome/chrome-app-samples/tree/master/samples/blink1) ⭐ 17,891 | 🐛 59 | 🌐 JavaScript | 📅 2026-11-17 - Chrome App sample that controls a [Blink(1)](https://blink1.thingm.com) notification LED.
 * [node-hid examples](https://github.com/node-hid/node-hid#examples) ⭐ 1,583 | 🐛 48 | 🌐 C++ | 📅 2026-07-20 - Despite the name, most directly use low-level read/write operations rather than HID abstractions.
 * [Web Bluetooth Demos](https://github.com/WebBluetoothCG/demos) ⭐ 675 | 🐛 7 | 🌐 HTML | 📅 2024-04-19 (Web Bluetooth Community Group) - Various, plus links to others.
-* [Griffin Powermate Playground](https://github.com/beaufortfrancois/sandbox/blob/gh-pages/webusb/griffin-powermate.html) ⭐ 83 | 🐛 11 | 🌐 HTML | 📅 2026-10-29 - Using WebUSB.
+* [Griffin Powermate Playground](https://github.com/beaufortfrancois/sandbox/blob/gh-pages/webusb/griffin-powermate.html) ⭐ 82 | 🐛 11 | 🌐 HTML | 📅 2026-10-29 - Using WebUSB.
 * [Interacting with USB HID devices from web apps](https://keetrax.com/blog/2015/01/interacting-usb-hid-devices-web-apps/) - Using a Chrome App as a go-between between a dictation foot pedal and a web application (2015).
 
 ## Ideas
@@ -151,4 +151,4 @@ None yet.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
